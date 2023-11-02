@@ -1,0 +1,8 @@
+query blogs {
+  allBlogs {
+    title
+    slug
+    summary
+    created_at
+  }
+}
